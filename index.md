@@ -1,5 +1,0 @@
-- Blog：[www.lblb.eu.org](https://www.lblb.eu.org)
-- EMail：nibazshab@gmail.com
-- Github：[@nibazshab](https://github.com/nibazshab)
-- Telegram：[@nibazshab](https://t.me/nibazshab)
-- ACGN：[@nibazshab](https://anilist.co/user/nibazshab)
